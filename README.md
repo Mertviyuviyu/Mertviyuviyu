@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I am Mustafa Mert Gülhan
+- 📚 I am a junior CS student at Bilkent University
+- 📫 How to reach me: mustafamertgulhan@gmail.com
+
 
 <!--
 **Mertviyuviyu/Mertviyuviyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->My name is Mert, I am living in Ankara and currently studying at Bilkent University.
+-->
